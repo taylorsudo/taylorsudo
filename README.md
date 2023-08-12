@@ -3,19 +3,12 @@
     *     *********           
     *     *  *                
      **  *  **                
-        *  ***                
+        *   **                
        **   **                
-       **   **                
-       **   **                
-       **   **                Welcome
-        **  **    *           to my GITHUB!
-         ** *  *    *         
-          *** *      *        
+        **  **                
+         ** *   ****          Welcome
+          *** *      *        to my GITHUB!
            ******* *          
-              **  *           
-              **  *           
-              ** **           
-              ** **           
               ** **           
               ** **           
               ** **           
@@ -24,7 +17,6 @@
             ****           *  
            *  *************   
           *     *********     
-          *                   
            **                 
 <!--
 **taylorsudo/taylorsudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
